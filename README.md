@@ -1,2 +1,1 @@
-# good-morning
-welcome message for those who get up for dawn
+this is programme for to alarm poeple to get up
